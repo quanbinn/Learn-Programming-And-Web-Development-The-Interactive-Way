@@ -33,8 +33,11 @@
 
 ### 章4-快速掌握网站开发前端的基础知识
 
-- [HTML]()
-- [DOM]()
+- [用DOM操控<p>Tag]()
+- [用DOM操控Form]()
+- [用DOM操控Image]()
+- [用DOM操控Video]()
+- [用DOM操控Canvas]()
 
 ### 章5-体验并理解HTTP协议（用online的Nodejs讲解http协议）
 
