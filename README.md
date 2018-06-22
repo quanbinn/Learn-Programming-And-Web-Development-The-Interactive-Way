@@ -33,7 +33,7 @@
 
 ### 章4-快速掌握网站开发前端的基础知识
 
-- [用DOM操控<p>Tag]()
+- [用DOM操控"div"Tag]()
 - [用DOM操控Form]()
 - [用DOM操控Image]()
 - [用DOM操控Video]()
