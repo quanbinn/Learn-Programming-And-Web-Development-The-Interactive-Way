@@ -2,7 +2,7 @@
 
 ## 网易云课堂：[书籍免费视频](http://study.163.com/course/introduction/1004112064.htm) | [书籍完整视频](http://study.163.com/course/introduction/1005405001.htm)
 
-<a href="http://study.163.com/course/introduction/1005405001.htm"><img src="/images/netease-preface.png" weight="400"></a>
+<a href="http://study.163.com/course/introduction/1005405001.htm"><img src="/images/netease_preface.png" weight="400"></a>
 
 ### 学习前的准备
 
