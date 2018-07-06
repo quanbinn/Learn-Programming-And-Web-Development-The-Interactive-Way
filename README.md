@@ -39,15 +39,12 @@
 
 - [用DOM操控"div"Tag]()
 - [用DOM操控Form]()
-- [用DOM操控Image]()
-- [用DOM操控Video]()
 - [用DOM操控Canvas]()
 
-### 章5-体验并理解HTTP协议（用online的Nodejs讲解http协议）
+### 章5-理解网站开发的重要功能（找一个在线执行的server）
 
-- [HTTP协议]()
+- [体验并理解HTTP协议]()
 
-### 章6-理解网站开发的重要功能（找一个在线执行的server）
 
 ### 深度学习的数学基础 - 微积分
 
