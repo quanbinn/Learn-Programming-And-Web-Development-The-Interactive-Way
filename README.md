@@ -41,6 +41,11 @@
 - [用DOM操控Form]()
 - [用DOM操控Canvas]()
 
+
+- [用DOM操控Canvas]()
+- [setInterval()??]()
+
+
 ### 章5-理解网站开发的重要功能（找一个在线执行的server）
 
 - [体验并理解HTTP协议]()
