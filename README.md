@@ -1,4 +1,4 @@
-# 用交互法高效学习编程和深度学习（Learn Programming & Deep Learning The Interactive Way）
+# 用交互法学编程和深度学习（Learn Programming & Deep Learning The Interactive Way）
 
 ## 网易云课堂：[书籍免费视频](http://study.163.com/course/introduction/1004112064.htm) | [书籍完整视频](http://study.163.com/course/introduction/1005405001.htm)
 
