@@ -1,8 +1,6 @@
-# 用交互法高效学习编程和深度学习（Learn Programming & Deep Learning The Interactive Way）
+# 用实验法学编程和Web开发（Learn Programming & Web Development The Interactive Way）
 
 ## 网易云课堂：[书籍免费视频](http://study.163.com/course/introduction/1004112064.htm) | [书籍完整视频](http://study.163.com/course/introduction/1005405001.htm)
-
-<a href="http://study.163.com/course/introduction/1005405001.htm"><img src="/images/netease_preface.png" weight="400"></a>
 
 ### 学习前的准备
 
@@ -40,30 +38,9 @@
 - [用DOM操控"div"Tag]()
 - [用DOM操控Form]()
 - [用DOM操控Canvas]()
-
-
 - [用DOM操控Canvas]()
 - [setInterval()??]()
-
 
 ### 章5-理解网站开发的重要功能（找一个在线执行的server）
 
 - [体验并理解HTTP协议]()
-
-
-### 深度学习的数学基础 - 微积分
-
-- [要点１]()
-- [要点２]()
-
-### 深度学习的数学基础 - 线性代数
-
-- [要点１]()
-- [要点２]()
-
-### 深度学习的数学基础 - 概率和统计
-
-- [要点１]()
-- [要点２]()
-
-### 深度学习（构思中）
