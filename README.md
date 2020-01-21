@@ -1,6 +1,4 @@
-# 用实验法学编程和Web开发（Learn Programming & Web Development The Interactive Way）
-
-## 网易云课堂：[书籍免费视频](http://study.163.com/course/introduction/1004112064.htm) | [书籍完整视频](http://study.163.com/course/introduction/1005405001.htm)
+# 用实体实验法学编程和Web开发（Learn Programming & Web Development The Interactive Way）
 
 ### 学习前的准备
 
