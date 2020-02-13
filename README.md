@@ -12,7 +12,7 @@
 ### 章0-用实体模型表达编程过程中的基本组件
 
 - [variables](/chapters/章0-用实体模型表达编程过程中的组件/variables.md)
-- [methods](/chapters/章0-用实体模型表达编程过程中的组件/methods.md)
+- [function](/chapters/章0-用实体模型表达编程过程中的组件/function.md)
 - [if-then-else](/chapters/章0-用实体模型表达编程过程中的组件/if-then-else.md)
 - [operators:+-*/](/chapters/章0-用实体模型表达编程过程中的组件/operators:+-*/.md)
 - [operators:><=](/chapters/章0-用实体模型表达编程过程中的组件/operators:><=.md)
@@ -57,6 +57,13 @@
 ### 章6-用实体模型表达网站开发前端的基本组件
 
 - [DOM树的数据节点的类和对象](/chapters/章6-用实体模型表达网站开发前端的基本组件/DOM树的数据节点的类和对象.md)
+- [Hyperlink](/chapters/章6-用实体模型表达网站开发前端的基本组件/Hyperlink.md)
+- [Form(input)](/chapters/章6-用实体模型表达网站开发前端的基本组件/Form(input).md)
+- [Image](/chapters/章6-用实体模型表达网站开发前端的基本组件/Image.md)
+- [Video](/chapters/章6-用实体模型表达网站开发前端的基本组件/Video.md)
+- [Audio](/chapters/章6-用实体模型表达网站开发前端的基本组件/Audio.md)
+- [Canvas](/chapters/章6-用实体模型表达网站开发前端的基本组件/Canvas.md)
+- [Heading-Paragraph-etc](/chapters/章6-用实体模型表达网站开发前端的基本组件/Heading-Paragraph-etc.md)
 
 ### 章7-快速掌握网站开发前端的基础知识
 
@@ -68,6 +75,6 @@
 
 ### 章8-用实体模型表达网站开发后端的基本组件
 
-### 章8-理解网站开发的重要功能（找一个在线执行的server）
+### 章9-理解网站开发的重要功能（找一个在线执行的server）
 
 - [体验并理解HTTP协议]()
