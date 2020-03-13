@@ -11,18 +11,18 @@
 
 ### 章0-用实体模型表达编程过程中的基本组件
 
-- [variable](/chapters/章0-用实体模型表达编程过程中的组件/variable.md)
-- [function](/chapters/章0-用实体模型表达编程过程中的组件/function.md)
-- [if-else](/chapters/章0-用实体模型表达编程过程中的组件/if-else.md)
-- [operators:+-*/](/chapters/章0-用实体模型表达编程过程中的组件/operators:+-*/.md)
-- [operators:><=](/chapters/章0-用实体模型表达编程过程中的组件/operators:><=.md)
-- [operators:and-or-not](/chapters/章0-用实体模型表达编程过程中的组件/operators:and-or-not.md)
-- [数组](/chapters/章0-用实体模型表达编程过程中的组件/数组.md)
-- [key-value](/chapters/章0-用实体模型表达编程过程中的组件/key-value.md)
-- [for循环](/chapters/章0-用实体模型表达编程过程中的组件/for循环.md)
-- [while循环](/chapters/章0-用实体模型表达编程过程中的组件/while循环.md)
-- [类](/chapters/章0-用实体模型表达编程过程中的组件/类.md)
-- [对象](/chapters/章0-用实体模型表达编程过程中的组件/对象.md)
+- [variable](/chapters/章0-用实体模型表达编程过程中的基本组件/variable.md)
+- [function](/chapters/章0-用实体模型表达编程过程中的基本组件/function.md)
+- [if-else](/chapters/章0-用实体模型表达编程过程中的基本组件/if-else.md)
+- [operators:+-*/](/chapters/章0-用实体模型表达编程过程中的基本组件/operators:+-*/.md)
+- [operators:><=](/chapters/章0-用实体模型表达编程过程中的基本组件/operators:><=.md)
+- [operators:and-or-not](/chapters/章0-用实体模型表达编程过程中的基本组件/operators:and-or-not.md)
+- [数组](/chapters/章0-用实体模型表达编程过程中的基本组件/数组.md)
+- [key-value](/chapters/章0-用实体模型表达编程过程中的基本组件/key-value.md)
+- [for循环](/chapters/章0-用实体模型表达编程过程中的基本组件/for循环.md)
+- [while循环](/chapters/章0-用实体模型表达编程过程中的基本组件/while循环.md)
+- [类](/chapters/章0-用实体模型表达编程过程中的基本组件/类.md)
+- [对象](/chapters/章0-用实体模型表达编程过程中的基本组件/对象.md)
 
 ### 章1-快速掌握编程的基础知识
 
