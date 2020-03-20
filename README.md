@@ -65,6 +65,7 @@
 ### 章5-理解基本的算法
 
 - [二分查找](/chapters/章5-理解基本的算法/二分查找.md)
+- [Insertion排序](/chapters/章5-理解基本的算法/Insertion排序.md)
 - [Shell排序](/chapters/章5-理解基本的算法/Shell排序.md)
 - [merge排序](/chapters/章5-理解基本的算法/merge排序.md)
 - [动态规划](/chapters/章5-理解基本的算法/动态规划.md)
