@@ -1,8 +1,8 @@
-﻿# 实验: Shell排序
+# 实验: Shell排序
 
 ## 打开实验文件
 
-单击右方的[在线代码段Url网址](http://www.pythontutor.com/visualize.html#code=def%20shellSort%28citylist%29%3A%0A%20%20%20%20sublistcount%20%3D%20len%28citylist%29//2%0A%20%20%20%20while%20sublistcount%20%3E%200%3A%0A%0A%20%20%20%20%20%20for%20startposition%20in%20range%28sublistcount%29%3A%0A%20%20%20%20%20%20%20%20gapInsertionSort%28citylist,startposition,sublistcount%29%0A%0A%20%20%20%20%20%20print%28%22After%20increments%20of%20size%22,sublistcount,%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%22The%20list%20is%22,citylist%29%0A%0A%20%20%20%20%20%20sublistcount%20%3D%20sublistcount%20//%202%0A%0Adef%20gapInsertionSort%28citylist,start,gap%29%3A%0A%20%20%20%20for%20i%20in%20range%28start%2Bgap,len%28citylist%29,gap%29%3A%0A%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20currentdata%20%3D%20citylist%5Bi%5D%20%20%20%0A%20%20%20%20%20%20%20%20currentvalue%20%3D%20citylist%5Bi%5D%5B'distance'%5D%0A%20%20%20%20%20%20%20%20position%20%3D%20i%0A%0A%20%20%20%20%20%20%20%20while%20position%3E%3Dgap%20and%20citylist%5Bposition-gap%5D%5B'distance'%5D%3Ecurrentvalue%3A%0A%20%20%20%20%20%20%20%20%20%20%20%20citylist%5Bposition%5D%3Dcitylist%5Bposition-gap%5D%0A%20%20%20%20%20%20%20%20%20%20%20%20position%20%3D%20position-gap%0A%0A%20%20%20%20%20%20%20%20citylist%5Bposition%5D%3Dcurrentdata%0A%0Acitylist%20%3D%20%5B%0A%7B'id'%3A3,'toplace'%3A'city4','distance'%3A17%7D,%0A%7B'id'%3A8,'toplace'%3A'city9','distance'%3A20%7D,%0A%7B'id'%3A1,'toplace'%3A'city2','distance'%3A26%7D,%0A%7B'id'%3A5,'toplace'%3A'city6','distance'%3A31%7D,%0A%7B'id'%3A6,'toplace'%3A'city7','distance'%3A44%7D,%0A%7B'id'%3A0,'toplace'%3A'city1','distance'%3A54%7D,%0A%7B'id'%3A7,'toplace'%3A'city8','distance'%3A55%7D,%0A%7B'id'%3A4,'toplace'%3A'city5','distance'%3A77%7D,%0A%7B'id'%3A2,'toplace'%3A'city3','distance'%3A93%7D%0A%5D%0AshellSort%28citylist%29%0Aprint%28citylist%29&cumulative=false&curInstr=187&heapPrimitives=nevernest&mode=display&origin=opt-frontend.js&py=py3anaconda&rawInputLstJSON=%5B%5D&textReferences=false)，浏览器里会打开一个新的页面，里面有下面的代码段。
+### 单击右方的[在线代码段Url网址](http://www.pythontutor.com/visualize.html#code=def%20shellSort%28citylist%29%3A%0A%20%20%20%20sublistcount%20%3D%20len%28citylist%29//2%0A%20%20%20%20while%20sublistcount%20%3E%200%3A%0A%0A%20%20%20%20%20%20for%20startposition%20in%20range%28sublistcount%29%3A%0A%20%20%20%20%20%20%20%20gapInsertionSort%28citylist,startposition,sublistcount%29%0A%0A%20%20%20%20%20%20print%28%22%E5%9C%A8%E9%80%92%E5%A2%9E%E6%95%B0%E5%80%BC%E4%B8%BA%22,sublistcount,%22%EF%BC%8C%E8%BF%90%E7%AE%97%E5%90%8E%E7%9A%84%E6%95%B0%E6%8D%AE%E5%88%97%E8%A1%A8%E9%A1%BA%E5%BA%8F%E5%8F%98%E6%88%90%E4%BA%86%EF%BC%9A%22,alist%29%0A%0A%20%20%20%20%20%20sublistcount%20%3D%20sublistcount%20//%202%0A%0Adef%20gapInsertionSort%28citylist,start,gap%29%3A%0A%20%20%20%20for%20i%20in%20range%28start%2Bgap,len%28citylist%29,gap%29%3A%0A%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20currentdata%20%3D%20citylist%5Bi%5D%20%20%20%0A%20%20%20%20%20%20%20%20currentvalue%20%3D%20citylist%5Bi%5D%5B'distance'%5D%0A%20%20%20%20%20%20%20%20position%20%3D%20i%0A%0A%20%20%20%20%20%20%20%20while%20position%3E%3Dgap%20and%20citylist%5Bposition-gap%5D%5B'distance'%5D%3Ecurrentvalue%3A%0A%20%20%20%20%20%20%20%20%20%20%20%20citylist%5Bposition%5D%3Dcitylist%5Bposition-gap%5D%0A%20%20%20%20%20%20%20%20%20%20%20%20position%20%3D%20position-gap%0A%0A%20%20%20%20%20%20%20%20citylist%5Bposition%5D%3Dcurrentdata%0A%0Acitylist%20%3D%20%5B%0A%7B'id'%3A3,'toplace'%3A'city4','distance'%3A17%7D,%0A%7B'id'%3A8,'toplace'%3A'city9','distance'%3A20%7D,%0A%7B'id'%3A1,'toplace'%3A'city2','distance'%3A26%7D,%0A%7B'id'%3A5,'toplace'%3A'city6','distance'%3A31%7D,%0A%7B'id'%3A6,'toplace'%3A'city7','distance'%3A44%7D,%0A%7B'id'%3A0,'toplace'%3A'city1','distance'%3A54%7D,%0A%7B'id'%3A7,'toplace'%3A'city8','distance'%3A55%7D,%0A%7B'id'%3A4,'toplace'%3A'city5','distance'%3A77%7D,%0A%7B'id'%3A2,'toplace'%3A'city3','distance'%3A93%7D%0A%5D%0AshellSort%28citylist%29%0Aprint%28citylist%29&cumulative=false&heapPrimitives=nevernest&mode=edit&origin=opt-frontend.js&py=py3anaconda&rawInputLstJSON=%5B%5D&textReferences=false)，浏览器里会打开一个新的页面，里面有下面的代码段。
 
 ```python
 def shellSort(citylist):
@@ -12,8 +12,7 @@ def shellSort(citylist):
       for startposition in range(sublistcount):
         gapInsertionSort(citylist,startposition,sublistcount)
 
-      print("After increments of size",sublistcount,
-                                   "The list is",citylist)
+      print("在递增数值为",sublistcount,"，运算后的数据列表顺序变成了：",alist)
 
       sublistcount = sublistcount // 2
 
@@ -43,6 +42,30 @@ citylist = [
 ]
 shellSort(citylist)
 print(citylist)
+```
+
+### 注明：只有数字的数据请单击右方的[在线代码段Url网址](http://www.pythontutor.com/visualize.html#code=def%20shellSort%28alist%29%3A%0A%20%20%20%20sublistcount%20%3D%20len%28alist%29//2%0A%20%20%20%20while%20sublistcount%20%3E%200%3A%0A%20%20%20%20%20%20for%20startposition%20in%20range%28sublistcount%29%3A%0A%20%20%20%20%20%20%20%20gapInsertionSort%28alist,startposition,sublistcount%29%0A%20%20%20%20%20%20print%28%22%E5%9C%A8%E9%80%92%E5%A2%9E%E6%95%B0%E5%80%BC%E4%B8%BA%22,sublistcount,%22%EF%BC%8C%E8%BF%90%E7%AE%97%E5%90%8E%E7%9A%84%E6%95%B0%E6%8D%AE%E5%88%97%E8%A1%A8%E9%A1%BA%E5%BA%8F%E5%8F%98%E6%88%90%E4%BA%86%EF%BC%9A%22,alist%29%0A%20%20%20%20%20%20sublistcount%20%3D%20sublistcount%20//%202%0A%0Adef%20gapInsertionSort%28alist,start,gap%29%3A%0A%20%20%20%20for%20i%20in%20range%28start%2Bgap,len%28alist%29,gap%29%3A%0A%20%20%20%20%20%20%20%20currentvalue%20%3D%20alist%5Bi%5D%0A%20%20%20%20%20%20%20%20position%20%3D%20i%0A%20%20%20%20%20%20%20%20while%20position%3E%3Dgap%20and%20alist%5Bposition-gap%5D%3Ecurrentvalue%3A%0A%20%20%20%20%20%20%20%20%20%20%20%20alist%5Bposition%5D%3Dalist%5Bposition-gap%5D%0A%20%20%20%20%20%20%20%20%20%20%20%20position%20%3D%20position-gap%0A%20%20%20%20%20%20%20%20alist%5Bposition%5D%3Dcurrentvalue%0Aalist%20%3D%20%5B54,26,93,17,77,31,44,55,20%5D%0AshellSort%28alist%29%0Aprint%28alist%29&cumulative=false&heapPrimitives=nevernest&mode=edit&origin=opt-frontend.js&py=py3anaconda&rawInputLstJSON=%5B%5D&textReferences=false)，浏览器里会打开一个新的页面，里面有下面的代码段。
+
+```python
+def shellSort(alist):
+    sublistcount = len(alist)//2
+    while sublistcount > 0:
+      for startposition in range(sublistcount):
+        gapInsertionSort(alist,startposition,sublistcount)
+      print("在递增数值为",sublistcount,"，运算后的数据列表顺序变成了：",alist)
+      sublistcount = sublistcount // 2
+
+def gapInsertionSort(alist,start,gap):
+    for i in range(start+gap,len(alist),gap):
+        currentvalue = alist[i]
+        position = i
+        while position>=gap and alist[position-gap]>currentvalue:
+            alist[position]=alist[position-gap]
+            position = position-gap
+        alist[position]=currentvalue
+alist = [54,26,93,17,77,31,44,55,20]
+shellSort(alist)
+print(alist)
 ```
 
 ## 开始做实体实验
