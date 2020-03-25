@@ -72,13 +72,22 @@ print(alist)
 
 ### 用实体模型表达上面代码段的运行过程1，分别如下图所示。
 
-![](/images/章5-理解基本的算法/Shell排序/00.jpg)
-![](/images/章5-理解基本的算法/Shell排序/0.jpg)
 ![](/images/章5-理解基本的算法/Shell排序/1a1.jpg)
+![](/images/章5-理解基本的算法/Shell排序/1a2.jpg)
+![](/images/章5-理解基本的算法/Shell排序/1a3.jpg)
+![](/images/章5-理解基本的算法/Shell排序/1a4.jpg)
+![](/images/章5-理解基本的算法/Shell排序/1a5.jpg)
+![](/images/章5-理解基本的算法/Shell排序/1a6.jpg)
+![](/images/章5-理解基本的算法/Shell排序/1a7.jpg)
+![](/images/章5-理解基本的算法/Shell排序/1a8.jpg)
+![](/images/章5-理解基本的算法/Shell排序/1a9.jpg)
+![](/images/章5-理解基本的算法/Shell排序/1a10.jpg)
 
-### 运行过程2如下图所示。
+### 运行过程2，分别如下图所示。
 
 ![](/images/章5-理解基本的算法/Shell排序/2a1.jpg)
+![](/images/章5-理解基本的算法/Shell排序/2a2.jpg)
+![](/images/章5-理解基本的算法/Shell排序/2a3.jpg)
 
 ### 运行过程3，分别如下图所示。
 
@@ -86,24 +95,4 @@ print(alist)
 ![](/images/章5-理解基本的算法/Shell排序/3a2.jpg)
 ![](/images/章5-理解基本的算法/Shell排序/3a3.jpg)
 ![](/images/章5-理解基本的算法/Shell排序/3a4.jpg)
-
-### 运行过程4如下图所示。
-
-![](/images/章5-理解基本的算法/Shell排序/4a1.jpg)
-
-### 运行过程5如下图所示。
-
-![](/images/章5-理解基本的算法/Shell排序/5a1.jpg)
-
-### 运行过程6如下图所示。
-
-![](/images/章5-理解基本的算法/Shell排序/6a1.jpg)
-
-### 运行过程7如下图所示。
-
-![](/images/章5-理解基本的算法/Shell排序/7a1.jpg)
-
-### 运行过程8如下图所示。
-
-![](/images/章5-理解基本的算法/Shell排序/8a1.jpg)
-
+![](/images/章5-理解基本的算法/Shell排序/3a4.jpg)
