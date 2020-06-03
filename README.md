@@ -77,6 +77,7 @@
 - [Video](/chapters/章6-用实体模型表达网站开发前端的基本组件/Video.md)
 - [Audio](/chapters/章6-用实体模型表达网站开发前端的基本组件/Audio.md)
 - [Canvas](/chapters/章6-用实体模型表达网站开发前端的基本组件/Canvas.md)
+- [span-div](/chapters/章6-用实体模型表达网站开发前端的基本组件/span-div.md)
 - [Heading-Paragraph-etc](/chapters/章6-用实体模型表达网站开发前端的基本组件/Heading-Paragraph-etc.md)
 
 ### 章7-快速掌握网站开发前端的基础知识
@@ -91,7 +92,7 @@
 - [](/chapters/章8-用实体模型表达网站开发后端的基本组件/.md)
 - [](/chapters/章8-用实体模型表达网站开发后端的基本组件/.md)
 - [](/chapters/章8-用实体模型表达网站开发后端的基本组件/.md)
-- [](/chapters/章8-用实体模型表达网站开发后端的基本组件/.md)
+- [用户名和密码](/chapters/章8-用实体模型表达网站开发后端的基本组件/用户名和密码.md)
 
 ### 章9-理解网站开发的重要功能（找一个在线执行的server）
 
