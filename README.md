@@ -71,14 +71,17 @@
 ### 章6-用实体模型表达网站开发前端的基本组件
 
 - [DOM树的数据节点的类和对象](/chapters/章6-用实体模型表达网站开发前端的基本组件/DOM树的数据节点的类和对象.md)
+- [Basic structure](/chapters/章6-用实体模型表达网站开发前端的基本组件/Basic-structure.md)
 - [Hyperlink](/chapters/章6-用实体模型表达网站开发前端的基本组件/Hyperlink.md)
 - [Form(input)](/chapters/章6-用实体模型表达网站开发前端的基本组件/Form(input).md)
 - [Image](/chapters/章6-用实体模型表达网站开发前端的基本组件/Image.md)
 - [Video](/chapters/章6-用实体模型表达网站开发前端的基本组件/Video.md)
 - [Audio](/chapters/章6-用实体模型表达网站开发前端的基本组件/Audio.md)
 - [Canvas](/chapters/章6-用实体模型表达网站开发前端的基本组件/Canvas.md)
-- [span-div](/chapters/章6-用实体模型表达网站开发前端的基本组件/span-div.md)
-- [Heading-Paragraph-etc](/chapters/章6-用实体模型表达网站开发前端的基本组件/Heading-Paragraph-etc.md)
+- [div](/chapters/章6-用实体模型表达网站开发前端的基本组件/div.md)
+- [Heading](/chapters/章6-用实体模型表达网站开发前端的基本组件/Heading.md)
+- [Paragraph](/chapters/章6-用实体模型表达网站开发前端的基本组件/Paragraph.md)
+- [Paragraph](/chapters/章6-用实体模型表达网站开发前端的基本组件/Paragraph.md)
 
 ### 章7-快速掌握网站开发前端的基础知识
 
