@@ -7,7 +7,7 @@
 - 长宽高分别为18cm，10cm，3mm的薄木板
 
 ```html
-<form></form>
+<form ... ></form>
 id="		"
 name="		"
 ```
