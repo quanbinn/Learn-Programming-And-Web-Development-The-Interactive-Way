@@ -81,7 +81,7 @@
 - [div](/chapters/章6-用实体模型表达网站开发前端的基本组件/div.md)
 - [Heading](/chapters/章6-用实体模型表达网站开发前端的基本组件/Heading.md)
 - [Paragraph](/chapters/章6-用实体模型表达网站开发前端的基本组件/Paragraph.md)
-- [Paragraph](/chapters/章6-用实体模型表达网站开发前端的基本组件/Paragraph.md)
+
 
 ### 章7-快速掌握网站开发前端的基础知识
 
