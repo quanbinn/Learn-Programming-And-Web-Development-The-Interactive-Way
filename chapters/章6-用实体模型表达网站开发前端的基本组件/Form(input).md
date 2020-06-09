@@ -57,3 +57,8 @@ onclick="handleSubmit()"
 ![](/images/章6-用实体模型表达网站开发前端的基本组件/Form(input)/form01.jpg)
 
 ![](/images/章6-用实体模型表达网站开发前端的基本组件/Form(input)/form02.jpg)
+
+## 参考文献及资料
+
+1. 维基百科
+	- [Form (HTML)](https://en.wikipedia.org/wiki/Form_(HTML)) 
