@@ -8,11 +8,9 @@
 <form>
   身高：<input type="number" id="height" name="height" placeholder="厘米"><br>
   体重：<input type="number" id="weight" name="weight" placeholder="公斤"><br>
-  <input type="submit" value="计算出你的BMI" onclick="handleSubmit()"/>
-
+  <input type="button" value="计算出你的BMI" onclick="handleSubmit()"/><br>
+  BMI：<input type="text" id="BMIInfo" name="BMIInfo" placeholder=""><br>
 </form>
-
-<div id="BMIInfo"></div>
 ```
 
 ```javascript
@@ -23,9 +21,8 @@ var height = document.getElementById("height").value;
   var BMIFloatNum = weight / ((height / 100) * (height / 100));// Calculate your BMI(kg/m2)    
   var BMI = BMIFloatNum.toFixed(1);     // Calculate your BMI round(1)
 
-  document.getElementById("BMIInfo").textContent = BMI;  
+  document.getElementById("BMIInfo").value = BMI;  
 }
-
 ```
 
 ## 参考文献及资料
