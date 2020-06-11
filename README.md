@@ -1,4 +1,4 @@
-# 用实体实验法学编程和Web开发（Learn Programming & Web Development The Interactive Way）
+# 用实体实验法学编程和Web开发(Learn Programming & Web Development The Interactive Way)
 
 ### 学习前的准备
 
@@ -11,18 +11,24 @@
 
 ### 章0-用实体模型表达编程过程中的基本组件
 
-- [variable](/chapters/章0-用实体模型表达编程过程中的基本组件/variable.md)
-- [function](/chapters/章0-用实体模型表达编程过程中的基本组件/function.md)
-- [if-else](/chapters/章0-用实体模型表达编程过程中的基本组件/if-else.md)
-- [operators:+-*/](/chapters/章0-用实体模型表达编程过程中的基本组件/operators:+-*/.md)
-- [operators:><=](/chapters/章0-用实体模型表达编程过程中的基本组件/operators:><=.md)
-- [operators:and-or-not](/chapters/章0-用实体模型表达编程过程中的基本组件/operators:and-or-not.md)
-- [数组](/chapters/章0-用实体模型表达编程过程中的基本组件/数组.md)
-- [key-value](/chapters/章0-用实体模型表达编程过程中的基本组件/key-value.md)
-- [for循环](/chapters/章0-用实体模型表达编程过程中的基本组件/for循环.md)
-- [while循环](/chapters/章0-用实体模型表达编程过程中的基本组件/while循环.md)
-- [类](/chapters/章0-用实体模型表达编程过程中的基本组件/类.md)
-- [对象](/chapters/章0-用实体模型表达编程过程中的基本组件/对象.md)
+- 变量和函数
+	- [variable](/chapters/章0-用实体模型表达编程过程中的基本组件/variable.md)
+	- [function](/chapters/章0-用实体模型表达编程过程中的基本组件/function.md)
+- 条件语句
+	- [if-else](/chapters/章0-用实体模型表达编程过程中的基本组件/if-else.md)
+- 操作符
+	- [operators:+-*/](/chapters/章0-用实体模型表达编程过程中的基本组件/operators:+-*/.md)
+	- [operators:><=](/chapters/章0-用实体模型表达编程过程中的基本组件/operators:><=.md)
+	- [operators:and-or-not](/chapters/章0-用实体模型表达编程过程中的基本组件/operators:and-or-not.md)
+- 数据结构
+	- [数组](/chapters/章0-用实体模型表达编程过程中的基本组件/数组.md)
+	- [key-value](/chapters/章0-用实体模型表达编程过程中的基本组件/key-value.md)
+- 循环
+	- [for循环](/chapters/章0-用实体模型表达编程过程中的基本组件/for循环.md)
+	- [while循环](/chapters/章0-用实体模型表达编程过程中的基本组件/while循环.md)
+- 类和对象
+	- [类](/chapters/章0-用实体模型表达编程过程中的基本组件/类.md)
+	- [对象](/chapters/章0-用实体模型表达编程过程中的基本组件/对象.md)
 
 ### 章1-快速掌握编程的基础知识
 
@@ -76,16 +82,20 @@
 
 - [DOM树的数据节点的类和对象](/chapters/章6-用实体模型表达网站开发前端的基本组件/DOM树的数据节点的类和对象.md)
 - [Basic structure](/chapters/章6-用实体模型表达网站开发前端的基本组件/Basic-structure.md)
-- [Hyperlink](/chapters/章6-用实体模型表达网站开发前端的基本组件/Hyperlink.md)
-- [Form(input)](/chapters/章6-用实体模型表达网站开发前端的基本组件/Form(input).md)
-- [Image](/chapters/章6-用实体模型表达网站开发前端的基本组件/Image.md)
-- [Video](/chapters/章6-用实体模型表达网站开发前端的基本组件/Video.md)
-- [Audio](/chapters/章6-用实体模型表达网站开发前端的基本组件/Audio.md)
-- [Canvas](/chapters/章6-用实体模型表达网站开发前端的基本组件/Canvas.md)
-- [div](/chapters/章6-用实体模型表达网站开发前端的基本组件/div.md)
-- [Heading](/chapters/章6-用实体模型表达网站开发前端的基本组件/Heading.md)
-- [Paragraph](/chapters/章6-用实体模型表达网站开发前端的基本组件/Paragraph.md)
-
+- 内联文本语义
+	- [Hyperlink](/chapters/章6-用实体模型表达网站开发前端的基本组件/Hyperlink.md)
+- 表单
+	- [Form(input)](/chapters/章6-用实体模型表达网站开发前端的基本组件/Form(input).md)
+- 内容分区
+	- [div](/chapters/章6-用实体模型表达网站开发前端的基本组件/div.md)
+	- [Heading](/chapters/章6-用实体模型表达网站开发前端的基本组件/Heading.md)
+	- [Paragraph](/chapters/章6-用实体模型表达网站开发前端的基本组件/Paragraph.md)
+- 图片和多媒体
+	- [Image](/chapters/章6-用实体模型表达网站开发前端的基本组件/Image.md)
+	- [Video](/chapters/章6-用实体模型表达网站开发前端的基本组件/Video.md)
+	- [Audio](/chapters/章6-用实体模型表达网站开发前端的基本组件/Audio.md)
+- 脚本
+	- [Canvas](/chapters/章6-用实体模型表达网站开发前端的基本组件/Canvas.md)
 
 ### 章7-快速掌握网站开发前端的基础知识
 
