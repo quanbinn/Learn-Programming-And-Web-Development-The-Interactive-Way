@@ -2,7 +2,7 @@
 
 ## 打开实验文件
 
-单击右方的[Conditional_BMI](https://codepen.io/quanbinn/pen/WJvoJN),浏览器里会打开一个新的页面，里面有下面的两段代码段，如下图所示。
+单击右方的[Conditional_BMI](https://codepen.io/quanbinn/pen/WJvoJN), 浏览器里会打开一个新的页面，里面有下面的两段代码段，如下图所示。
 
 ```html
 <h3>获取BMI数据的具体步骤：</h3>

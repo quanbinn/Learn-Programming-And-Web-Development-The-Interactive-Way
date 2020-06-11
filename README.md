@@ -100,7 +100,7 @@
 ### 章7-快速掌握网站开发前端的基础知识
 
 - [用DOM操控div](/chapters/章7-快速掌握网站开发前端的基础知识/用DOM操控div.md)
-- [用DOM操控Form](/chapters/章7-快速掌握网站开发前端的基础知识/用DOM操控Form.md)
+- [用DOM操控Form中的input](/chapters/章7-快速掌握网站开发前端的基础知识/用DOM操控Form中的input.md)
 - [用DOM操控Canvas](/chapters/章7-快速掌握网站开发前端的基础知识/用DOM操控Canvas.md)
 - [setInterval()](/chapters/章7-快速掌握网站开发前端的基础知识/setInterval().md)
 
