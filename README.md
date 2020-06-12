@@ -104,14 +104,12 @@
 - [用DOM操控Canvas](/chapters/章7-快速掌握网站开发前端的基础知识/用DOM操控Canvas.md)
 - [setInterval()](/chapters/章7-快速掌握网站开发前端的基础知识/setInterval().md)
 
-### 章8-用实体模型表达网站开发后端的基本组件
+### 章8-理解网站开发的重要功能(把TCP/IP-实体模型-nodejs结合起来)
 
-- [](/chapters/章8-用实体模型表达网站开发后端的基本组件/.md)
-- [](/chapters/章8-用实体模型表达网站开发后端的基本组件/.md)
-- [](/chapters/章8-用实体模型表达网站开发后端的基本组件/.md)
-- [用户名和密码](/chapters/章8-用实体模型表达网站开发后端的基本组件/用户名和密码.md)
+- [NoSQL数据库](/chapters/章8-理解网站开发的重要功能/NoSQL数据库.md)
+- [解析URL](/chapters/章8-理解网站开发的重要功能/解析URL.md)
+- [HTTP Request](/chapters/章8-理解网站开发的重要功能/HTTP_Request.md) 
+- [HTTP Response](/chapters/章8-理解网站开发的重要功能/HTTP_Response.md) 
+- [HTTP Methods](/chapters/章8-理解网站开发的重要功能/HTTP_Methods.md) 
+- [存储用户名和加密的密码](/chapters/章8-理解网站开发的重要功能/存储用户名和加密的密码.md)
 
-### 章9-理解网站开发的重要功能（找一个在线执行的server）
-
-- [体验并理解HTTP协议](/chapters/章9-理解网站开发的重要功能/体验并理解HTTP协议.md)
-- [](/chapters/章9-理解网站开发的重要功能/.md)
