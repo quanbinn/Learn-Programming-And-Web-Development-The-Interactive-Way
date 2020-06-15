@@ -112,5 +112,6 @@
 	- [HTTP Request](/chapters/章8-理解网站开发的重要功能/HTTP_Request.md) 
 	- [HTTP Response](/chapters/章8-理解网站开发的重要功能/HTTP_Response.md) 
 	- [HTTP Methods](/chapters/章8-理解网站开发的重要功能/HTTP_Methods.md) 
+- [Representational state transfer (REST)](/chapters/章8-理解网站开发的重要功能/REST.md) 
 - [存储用户名和加密的密码](/chapters/章8-理解网站开发的重要功能/存储用户名和加密的密码.md)
 
