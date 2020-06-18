@@ -14,6 +14,7 @@
 
 1. 维基百科
 	- [Hypertext Transfer Protocol](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) 
+	- [Uniform Resource Identifier](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier)
 	- [URL](https://en.wikipedia.org/wiki/URL)
-
+	- [Uniform Resource Name](https://en.wikipedia.org/wiki/Uniform_Resource_Name)
 

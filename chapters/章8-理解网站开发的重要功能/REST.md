@@ -4,6 +4,12 @@
 
 单击右方的[Manipulate_Input_of_Form](https://codepen.io/quanbinn/pen/jOWWjwe), 浏览器里会打开一个新的页面，里面有下面的两段代码段，如下图所示。
 
+## Resources
+
+## Representations
+
+## State Transfer
+
 ```html
 ```
 
