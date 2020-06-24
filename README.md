@@ -108,7 +108,7 @@
 ### 章8-理解网站开发的重要功能(把TCP/IP-实体模型-nodejs结合起来)
 
 - ["**Clients-Server**”的实体数据交互模型](/chapters/章8-理解网站开发的重要功能/"Clients-Server”的实体数据交互模型.md)
-- REST / NoSQL / URL
+- REST / JSON / URL
 	- [Representational state transfer](/chapters/章8-理解网站开发的重要功能/REST.md)
 	- [NoSQL数据库中的JSON](/chapters/章8-理解网站开发的重要功能/NoSQL数据库中的JSON.md)
 	- [解析URL](/chapters/章8-理解网站开发的重要功能/解析URL.md)
