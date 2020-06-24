@@ -110,7 +110,7 @@
 - ["**Clients-Server**”的实体数据交互模型](/chapters/章8-理解网站开发的重要功能/"Clients-Server”的实体数据交互模型.md)
 - REST / NoSQL / URL
 	- [Representational state transfer](/chapters/章8-理解网站开发的重要功能/REST.md)
-	- [NoSQL数据库](/chapters/章8-理解网站开发的重要功能/NoSQL数据库.md)
+	- [NoSQL数据库中的JSON](/chapters/章8-理解网站开发的重要功能/NoSQL数据库中的JSON.md)
 	- [解析URL](/chapters/章8-理解网站开发的重要功能/解析URL.md)
 - HTTP
 	- [HTTP Request](/chapters/章8-理解网站开发的重要功能/HTTP_Request.md) 
