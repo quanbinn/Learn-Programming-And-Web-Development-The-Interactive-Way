@@ -2,7 +2,7 @@
 
 ## 打开实验文件
 
-单击右方的[生成一个JSON数据](https://codepen.io/quanbinn/pen/RwrZdVg), 浏览器里会打开一个新的页面，里面有下面的两段代码段，如下图所示。
+单击右方的[生成一条JSON数据](https://codepen.io/quanbinn/pen/RwrZdVg), 浏览器里会打开一个新的页面，里面有下面的两段代码段，如下图所示。
 
 ```html
 <form>
