@@ -61,37 +61,43 @@ function handleButton(){
   address["province"] =document.getElementById("province").value;
   address["postalCode"] =document.getElementById("postalCode").value;
   agent["address"] = address;
-  
+
   phoneInfo = {};
   phoneInfo["phoneType"] = document.getElementById("phoneType").value;
   phoneInfo["phoneNumber"] = document.getElementById("phoneNumber").value;
   agent["phoneInfo"] = phoneInfo;  
-  
+
   childern = [];
 
   childern_1 = {};
   childern_1["lastName"] = document.getElementById("lastNameOfChild_1").value;
   childern_1["firstName"] = document.getElementById("firstNameOfChild_1").value;
-  childern_1["birthyear"] = document.getElementById("idOfChinaOfChild_1").value;
+  childern_1["birthyear"] = document.getElementById("birthyearOfChild_1").value;
   childern_1["idOfChina"] = document.getElementById("idOfChinaOfChild_1").value;
-  childern[0] = childern_1;
+  childern.push(childern_1);
 
   childern_2 = {};
   childern_2["lastName"] = document.getElementById("lastNameOfChild_2").value;
   childern_2["firstName"] = document.getElementById("firstNameOfChild_2").value;
   childern_2["birthyear"] = document.getElementById("birthyearOfChild_2").value;
   childern_2["idOfChina"] = document.getElementById("idOfChinaOfChild_2").value;
-  childern[1] = childern_2;
+  childern.push(childern_2);
 
   agent["childern"] = childern;  
 
   contribs = [];
-  contribs[0] = document.getElementById("contrib_1").value; 
-  contribs[1] = document.getElementById("contrib_2").value; 
-  contribs[2] = document.getElementById("contrib_3").value;  
+  contribs.push(document.getElementById("contrib_1").value);
+  contribs.push(document.getElementById("contrib_2").value); 
+  contribs.push(document.getElementById("contrib_3").value);  
   agent["contribs"] = contribs;
 
   console.log(agent);
+  alert(agent["lastName"]);
+  alert(agent["firstName"]);
+  alert(agent["contribs"]);
+  
+  alert(agent["childern"][0]["birthyear"]);  
+  alert(agent["childern"][1]["birthyear"]); 
 }
 ```
 
