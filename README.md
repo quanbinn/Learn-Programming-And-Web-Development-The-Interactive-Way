@@ -117,9 +117,7 @@
 	- [HTTP Response](/chapters/章8-理解网站开发的重要功能/HTTP_Response.md) 
 	- [HTTP Methods](/chapters/章8-理解网站开发的重要功能/HTTP_Methods.md) 
 - 文件传输
-	- [内容1](/chapters/章8-理解网站开发的重要功能/内容1.md) 
-	- [内容1](/chapters/章8-理解网站开发的重要功能/内容1.md) 
-	- [内容1](/chapters/章8-理解网站开发的重要功能/内容1.md) 
+	- [从client上传1个文件](/chapters/章8-理解网站开发的重要功能/从client上传1个文件.md) 
 - [存储用户名和加密的密码](/chapters/章8-理解网站开发的重要功能/存储用户名和加密的密码.md)
 - [调用外部支付API(以支付宝为例)](/chapters/章8-理解网站开发的重要功能/调用外部支付API(以支付宝为例).md)
 
