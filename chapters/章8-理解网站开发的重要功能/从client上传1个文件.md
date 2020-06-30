@@ -6,6 +6,9 @@
 
 ```html
 <input type="file" onchange="showFile(this)">
+<br>
+<br>
+<input type="file" onchange="readFile(this)">
 ```
 
 ```javascript
@@ -14,6 +17,15 @@ function showFile(input) {
 
   alert(`File name: ${file.name}`); // e.g my.png
   alert(`Last modified: ${file.lastModified}`); // e.g 1552830408824
+}
+
+function readFile(input) {
+  let file = input.files[0];
+  let reader = new FileReader();
+  reader.readAsText(file);
+
+  reader.onload = function(){console.log(reader.result);};
+  reader.onerror = function(){console.log(reader.error);};
 }
 ```
 
