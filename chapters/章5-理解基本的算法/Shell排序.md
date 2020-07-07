@@ -96,3 +96,10 @@ print(alist)
 ![](/images/章5-理解基本的算法/Shell排序/3a3.jpg)
 ![](/images/章5-理解基本的算法/Shell排序/3a4.jpg)
 ![](/images/章5-理解基本的算法/Shell排序/3a5.jpg)
+
+## 参考文献及资料
+
+1. 维基百科
+	- [Shellsort](https://en.wikipedia.org/wiki/Shellsort) 
+
+2. [The Shell Sort](https://runestone.academy/runestone/books/published/pythonds/SortSearch/TheShellSort.html) 

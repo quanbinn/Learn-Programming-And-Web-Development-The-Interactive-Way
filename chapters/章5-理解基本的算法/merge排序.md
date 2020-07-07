@@ -52,3 +52,10 @@ citylist = [
 mergeSort(citylist)
 print(citylist)
 ```
+
+## 参考文献及资料
+
+1. 维基百科
+	- [Merge sort](https://en.wikipedia.org/wiki/Merge_sort) 
+
+2. [The Merge Sort](https://runestone.academy/runestone/books/published/pythonds/SortSearch/TheMergeSort.html) 

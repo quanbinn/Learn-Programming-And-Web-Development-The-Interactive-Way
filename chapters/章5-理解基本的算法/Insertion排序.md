@@ -71,3 +71,10 @@ print(citylist)
 
 ![](/images/章5-理解基本的算法/Insertion排序/8a1.jpg)
 
+## 参考文献及资料
+
+1. 维基百科
+	- [Insertion sort](https://en.wikipedia.org/wiki/Insertion_sort) 
+
+2. [The Insertion Sort](https://runestone.academy/runestone/books/published/pythonds/SortSearch/TheInsertionSort.html) 
+
