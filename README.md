@@ -113,7 +113,10 @@
 
 - "**Clients-Server**”的数据交互模型
 	- [实体数据交互模型](/chapters/章8-理解网站开发的重要功能/实体数据交互模型.md)
-	- [极简的Request-Response代码模版](/chapters/章8-理解网站开发的重要功能/极简的Request-Response代码模版.md)
+	- [极简的Request-Response代码模版-GET](/chapters/章8-理解网站开发的重要功能/极简的Request-Response代码模版-GET.md)
+	- [代码模版-POST](/chapters/章8-理解网站开发的重要功能/极简的Request-Response代码模版-POST.md)
+	- [代码模版-PUT](/chapters/章8-理解网站开发的重要功能/极简的Request-Response代码模版-PUT.md)
+	- [代码模版-DELETE](/chapters/章8-理解网站开发的重要功能/极简的Request-Response代码模版-DELETE.md)
 - REST/JSON/URL
 	- [Representational state transfer](/chapters/章8-理解网站开发的重要功能/REST.md)
 	- [NoSQL数据库中的JSON](/chapters/章8-理解网站开发的重要功能/NoSQL数据库中的JSON.md)

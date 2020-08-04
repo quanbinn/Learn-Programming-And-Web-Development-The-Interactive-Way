@@ -1,4 +1,4 @@
-# 极简的Request-Response代码模版
+# 极简的Request-Response代码模版-POST
 
 ## URL示例说明，分别如下图所示。
 
