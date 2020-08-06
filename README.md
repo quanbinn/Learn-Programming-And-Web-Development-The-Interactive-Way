@@ -109,7 +109,7 @@
 - [用DOM操控Canvas](/chapters/章7-快速掌握网站开发前端的基础知识/用DOM操控Canvas.md)
 - [setInterval()](/chapters/章7-快速掌握网站开发前端的基础知识/setInterval().md)
 
-### 章8-理解网站开发的重要功能(把TCP/IP-实体模型-nodejs结合起来)
+### 章8-理解网站开发的重要功能
 
 - "**Clients-Server**”的数据交互模型
 	- [实体数据交互模型](/chapters/章8-理解网站开发的重要功能/实体数据交互模型.md)
@@ -117,11 +117,16 @@
 	- [代码模版-POST](/chapters/章8-理解网站开发的重要功能/极简的Request-Response代码模版-POST.md)
 	- [代码模版-PUT](/chapters/章8-理解网站开发的重要功能/极简的Request-Response代码模版-PUT.md)
 	- [代码模版-DELETE](/chapters/章8-理解网站开发的重要功能/极简的Request-Response代码模版-DELETE.md)
-- REST/JSON/URL
-	- [Representational state transfer](/chapters/章8-理解网站开发的重要功能/REST.md)
-	- [NoSQL数据库中的JSON](/chapters/章8-理解网站开发的重要功能/NoSQL数据库中的JSON.md)
+- URL/JSON/REST
 	- [解析URL](/chapters/章8-理解网站开发的重要功能/解析URL.md)
+	- [NoSQL数据库中的JSON](/chapters/章8-理解网站开发的重要功能/NoSQL数据库中的JSON.md)
+	- [Representational state transfer](/chapters/章8-理解网站开发的重要功能/REST.md)
 - 文件传输
 	- [从client上传1个文件](/chapters/章8-理解网站开发的重要功能/从client上传1个文件.md)
-- [存储用户名和加密的密码](/chapters/章8-理解网站开发的重要功能/存储用户名和加密的密码.md)
-- [调用外部支付API(以支付宝为例)](/chapters/章8-理解网站开发的重要功能/调用外部支付API(以支付宝为例).md)
+- 用户认证/支付等
+	- [存储用户名和加密的密码](/chapters/章8-理解网站开发的重要功能/存储用户名和加密的密码.md)
+	- [调用外部支付API(以支付宝为例)](/chapters/章8-理解网站开发的重要功能/调用外部支付API(以支付宝为例).md)
+- DDHuman.me的重要子功能
+	- [功能1](/chapters/章8-理解网站开发的重要功能/功能1.md)
+	- [功能2](/chapters/章8-理解网站开发的重要功能/功能2.md)
+	- [功能3](/chapters/章8-理解网站开发的重要功能/功能3.md)
