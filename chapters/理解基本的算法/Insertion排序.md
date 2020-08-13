@@ -1,4 +1,4 @@
-# 实验: Insertion排序
+# Insertion排序
 
 ## 打开实验文件
 
