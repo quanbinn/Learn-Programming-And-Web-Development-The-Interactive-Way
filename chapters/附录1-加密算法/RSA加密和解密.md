@@ -1,4 +1,4 @@
-# RSA (cryptosystem) & Secure Shell (SSH)
+# RSA加密和解密
 
 ## 打开实验文件
 
@@ -16,7 +16,7 @@
 
 1. 维基百科
 	- [RSA (cryptosystem)](https://en.wikipedia.org/wiki/RSA_(cryptosystem)) 
-	- [Secure Shell (SSH)](https://en.wikipedia.org/wiki/Secure_Shell) 
+	- [Prime number](https://en.wikipedia.org/wiki/Prime_number) 
 
 2. [RSA算法原理（一）](https://www.ruanyifeng.com/blog/2013/06/rsa_algorithm_part_one.html) 
 
