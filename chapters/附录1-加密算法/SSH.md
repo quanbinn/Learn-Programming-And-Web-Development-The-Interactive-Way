@@ -1,4 +1,4 @@
-# RSA (cryptosystem) & Secure Shell (SSH)
+# Secure Shell (SSH)
 
 ## 打开实验文件
 
@@ -15,14 +15,12 @@
 ## 参考文献及资料
 
 1. 维基百科
-	- [RSA (cryptosystem)](https://en.wikipedia.org/wiki/RSA_(cryptosystem)) 
 	- [Secure Shell (SSH)](https://en.wikipedia.org/wiki/Secure_Shell) 
+	- [RSA (cryptosystem)](https://en.wikipedia.org/wiki/RSA_(cryptosystem)) 
 
-2. [RSA算法原理（一）](https://www.ruanyifeng.com/blog/2013/06/rsa_algorithm_part_one.html) 
+2. [SSH原理与运用（一）：远程登录](https://www.ruanyifeng.com/blog/2011/12/ssh_remote_login.html) 
 
-3. [RSA算法原理（二）](https://www.ruanyifeng.com/blog/2013/07/rsa_algorithm_part_two.html) 
-
-4. [在线体验RSA加密/解密](https://oktools.net/rsa) 
+3. [SSH原理与运用（二）：远程操作与端口转发](https://www.ruanyifeng.com/blog/2011/12/ssh_port_forwarding.html) 
 
 
 

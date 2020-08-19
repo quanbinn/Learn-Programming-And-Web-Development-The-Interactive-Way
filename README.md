@@ -145,6 +145,7 @@
 ## 附录1-加密算法
 
 - [RSA加密和解密](/chapters/附录1-加密算法/RSA加密和解密.md)
+- [加密散列函数](/chapters/附录1-加密算法/加密散列函数.md)
 - [Secure Shell (SSH)](/chapters/附录1-加密算法/SSH.md)
 
 
