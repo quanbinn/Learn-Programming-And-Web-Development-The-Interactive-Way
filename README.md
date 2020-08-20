@@ -142,10 +142,11 @@
 	- [功能3](/chapters/DDHuman.me的重要子功能/功能3.md)	
 	- [功能3](/chapters/DDHuman.me的重要子功能/功能3.md)
 
-## 附录1-加密算法
+## 附录
 
-- [RSA加密和解密](/chapters/附录1-加密算法/RSA加密和解密.md)
-- [加密散列函数](/chapters/附录1-加密算法/加密散列函数.md)
-- [Secure Shell (SSH)](/chapters/附录1-加密算法/SSH.md)
+- **加密算法**
+	- [RSA加密和解密](/chapters/附录/RSA加密和解密.md)
+	- [加密散列函数](/chapters/附录/加密散列函数.md)
+	- [Secure Shell (SSH)](/chapters/附录/SSH.md)
 
 
