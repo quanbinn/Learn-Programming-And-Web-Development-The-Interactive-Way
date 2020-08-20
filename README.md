@@ -126,21 +126,6 @@
 - 用户认证/支付等
 	- [调用外部支付API(以支付宝为例)](/chapters/理解网站开发的重要功能/调用外部支付API(以支付宝为例).md)
 
-## DDHuman.me的重要子功能
-
-- [首页](/chapters/DDHuman.me的重要子功能/首页.md)
-- 用户
-	- [功能2](/chapters/DDHuman.me的重要子功能/功能2.md)
-- 内容
-	- [功能2](/chapters/DDHuman.me的重要子功能/功能2.md)
-	- [功能2](/chapters/DDHuman.me的重要子功能/功能2.md)
-	- [功能2](/chapters/DDHuman.me的重要子功能/功能2.md)
-- 站内搜索
-	- [功能3](/chapters/DDHuman.me的重要子功能/功能3.md)
-- 广告系统
-	- [功能3](/chapters/DDHuman.me的重要子功能/功能3.md)	
-	- [功能3](/chapters/DDHuman.me的重要子功能/功能3.md)
-
 ## 附录
 
 - **加密算法**
