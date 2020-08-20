@@ -147,5 +147,6 @@
 	- [RSA加密和解密](/chapters/附录/RSA加密和解密.md)
 	- [加密散列函数](/chapters/附录/加密散列函数.md)
 	- [Secure Shell (SSH)](/chapters/附录/SSH.md)
+	- [公钥数字签名](/chapters/附录/公钥数字签名.md)
 
 
