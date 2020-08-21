@@ -126,6 +126,10 @@
 - 用户认证/支付等
 	- [调用外部支付API(以支付宝为例)](/chapters/理解网站开发的重要功能/调用外部支付API(以支付宝为例).md)
 
+## HTTP Server
+- [最简功能1](/chapters/HTTP_Server/最简功能1.md)
+- [content2](/chapters/HTTP_Server/content2.md)
+
 ## 附录
 
 - **加密算法**
