@@ -104,6 +104,7 @@
 
 ## 快速掌握网站开发前端的基础知识
 
+- [体验DOM](/chapters/快速掌握网站开发前端的基础知识/体验DOM.md)
 - [用DOM操控div](/chapters/快速掌握网站开发前端的基础知识/用DOM操控div.md)
 - [用DOM操控Form中的input](/chapters/快速掌握网站开发前端的基础知识/用DOM操控Form中的input.md)
 - [用DOM操控Canvas](/chapters/快速掌握网站开发前端的基础知识/用DOM操控Canvas.md)
