@@ -1,5 +1,27 @@
-# 体验DOM
+# 体验DOM树结构的数据节点
 
+## 基本原理
+
+1. DOM tree是一个二叉树的数据结构，对于每一个数据节点，都有它的父节点(parent)，另外也有它的兄弟节点(Sibling)和孩子节点(children)。
+2. 对于每一个元素节点的内容，可以从innerHTML的property取出相应的value。
+3. 无论是使用getElementById("tagName")取出1个对象, 或者是使用getElementsByTagName("tagName")等取出多个对象，返回的数据都是一个对象（同时可以被看成**一个数组**）。例如使用document.getElementsByTagName("h2")的返回对象如下：
+
+```javascript
+x=document.getElementsByTagName("h2");
+typeof x is an object
+
+x = [h2, h2, h2, h2, h2]
+x = {
+	0: {对象1}，
+	1: {对象2}，
+	2: {对象3}，
+	3: {对象4}，
+	   ---
+	n: {对象n+1}
+}
+
+```
+	
 ## 打开实验文件
 
 单击右方的[IANA-managed Reserved Domains](https://www.iana.org/domains/reserved), 浏览器里会打开一个页面，鼠标右键页面检查，在控制台（Console）里面输入下面的代码段，如下图所示。
