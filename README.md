@@ -105,6 +105,11 @@
 ## 快速掌握网站开发前端的基础知识
 
 - [体验DOM树结构的数据节点](/chapters/快速掌握网站开发前端的基础知识/体验DOM树结构的数据节点.md)
+- **CRUD** DOM Tree
+	- [创建DOM树的数据节点](/chapters/快速掌握网站开发前端的基础知识/创建DOM树的数据节点.md)
+	- [读取DOM树的数据节点内容](/chapters/快速掌握网站开发前端的基础知识/读取DOM树的数据节点内容.md)
+	- [改变DOM树的数据节点内容](/chapters/快速掌握网站开发前端的基础知识/改变DOM树的数据节点内容.md)
+	- [删除DOM树的数据节点](/chapters/快速掌握网站开发前端的基础知识/删除DOM树的数据节点.md)
 - [用DOM操控div](/chapters/快速掌握网站开发前端的基础知识/用DOM操控div.md)
 - [用DOM操控Form中的input](/chapters/快速掌握网站开发前端的基础知识/用DOM操控Form中的input.md)
 - [用DOM操控Canvas](/chapters/快速掌握网站开发前端的基础知识/用DOM操控Canvas.md)
