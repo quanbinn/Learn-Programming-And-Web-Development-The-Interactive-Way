@@ -2,23 +2,23 @@
 
 ### 用实体模型表达二进制中的1个Byte(一共8个Bits)，如下图所示。
 
-![](/images/快速掌握编程的基础知识/Bit和Byte/0a0.jpg)
+![](/images/理解计算机科学的基本原理/Bit和Byte/0a0.jpg)
 
 ### 参考[1张图像中的100个RGB值 in Gitee](https://gitee.com/quanbinn/learn-dl-the-experimental-way/blob/master/chapters/%E4%BD%93%E9%AA%8C%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%92%8C%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E4%B8%AD%E5%A4%84%E7%90%86%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/1%E5%BC%A0%E5%9B%BE%E5%83%8F%E4%B8%AD%E7%9A%84100%E4%B8%AARGB%E5%80%BC.md#1%E5%BC%A0%E5%9B%BE%E5%83%8F%E4%B8%AD%E7%9A%84100%E4%B8%AArgb%E5%80%BC) / [1张图像中的100个RGB值 in Github](https://github.com/quanbinn/learn-dl-the-experimental-way/blob/master/chapters/%E4%BD%93%E9%AA%8C%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%92%8C%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E4%B8%AD%E5%A4%84%E7%90%86%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/1%E5%BC%A0%E5%9B%BE%E5%83%8F%E4%B8%AD%E7%9A%84100%E4%B8%AARGB%E5%80%BC.md)，左上角的点Red: 154, Green: 157, Blue: 162，用实体模型表达二进制，分别如下图所示。
 
-![](/images/快速掌握编程的基础知识/Bit和Byte/1a1.jpg)
-![](/images/快速掌握编程的基础知识/Bit和Byte/1a2.jpg)
-![](/images/快速掌握编程的基础知识/Bit和Byte/1a3.jpg)
+![](/images/理解计算机科学的基本原理/Bit和Byte/1a1.jpg)
+![](/images/理解计算机科学的基本原理/Bit和Byte/1a2.jpg)
+![](/images/理解计算机科学的基本原理/Bit和Byte/1a3.jpg)
 
 ### 右下角的点Red: 131, Green: 134, Blue: 141 用实体模型表达二进制，分别如下图所示。
 
-![](/images/快速掌握编程的基础知识/Bit和Byte/2a1.jpg)
-![](/images/快速掌握编程的基础知识/Bit和Byte/2a2.jpg)
-![](/images/快速掌握编程的基础知识/Bit和Byte/2a3.jpg)
+![](/images/理解计算机科学的基本原理/Bit和Byte/2a1.jpg)
+![](/images/理解计算机科学的基本原理/Bit和Byte/2a2.jpg)
+![](/images/理解计算机科学的基本原理/Bit和Byte/2a3.jpg)
 
 ### 两个点的所有RGB值(一共6个Byte)放在一起，如下图所示。
 
-![](/images/快速掌握编程的基础知识/Bit和Byte/3a1.jpg)
+![](/images/理解计算机科学的基本原理/Bit和Byte/3a1.jpg)
 
 1. 维基百科
 	- [Bit](https://en.wikipedia.org/wiki/Bit)
