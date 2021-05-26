@@ -19,19 +19,20 @@
 	- [中断和异常的电路实现](/chapters/理解计算机科学的基本原理/计算机组成原理/中断和异常的电路实现.md)
 	- [Input+Output设备的电路实现](/chapters/理解计算机科学的基本原理/计算机组成原理/Input+Output设备的电路实现.md)
 
+- 操作系统
+	- [实现开启多个进程中需要的memory management](/chapters/理解计算机科学的基本原理/操作系统/实现开启多个进程中需要的memory-management.md)
+	- [实现process和thread](/chapters/理解计算机科学的基本原理/操作系统/实现process和thread.md)
+	- [实现file system并对file进行读和写等操作](/chapters/理解计算机科学的基本原理/操作系统/实现file-system并对file进行读和写等操作.md)
+	- [实现socket网络通信中的send和receive数字信号](/chapters/理解计算机科学的基本原理/操作系统/实现socket网络通信中的send和receive数字信号.md)
+	- [实现CPU的scheduling](/chapters/理解计算机科学的基本原理/操作系统/实现CPU的scheduling.md)
+	- [实现block device driver](/chapters/理解计算机科学的基本原理/操作系统/实现block-device-driver.md)
+
 - 编译原理
 	- [把一段c++代码编译成汇编语言](/chapters/理解计算机科学的基本原理/编译原理/把一段c++代码编译成汇编语言.md)
 	- [](/chapters/理解计算机科学的基本原理/编译原理/.md)
 	- [](/chapters/理解计算机科学的基本原理/编译原理/.md)
 	- [](/chapters/理解计算机科学的基本原理/编译原理/.md)
 	- [](/chapters/理解计算机科学的基本原理/编译原理/.md)
-
-- 操作系统
-	- [](/chapters/理解计算机科学的基本原理/操作系统/.md)
-	- [](/chapters/理解计算机科学的基本原理/操作系统/.md)
-	- [](/chapters/理解计算机科学的基本原理/操作系统/.md)
-	- [](/chapters/理解计算机科学的基本原理/操作系统/.md)
-	- [](/chapters/理解计算机科学的基本原理/操作系统/.md)
 
 ## 理解内存管理和并发
 
