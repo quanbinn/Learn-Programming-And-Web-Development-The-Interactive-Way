@@ -29,7 +29,7 @@
 
 - 把一段程序编译成CPU指令集的过程
 	- [解析树](/chapters/理解计算机科学的基本原理/把一段程序编译成CPU指令集的过程/解析树.md)
-	- [体验编译过程中操作系统的栈和堆对内存的使用](/chapters/理解计算机科学的基本原理/体验编译过程中操作系统的栈和堆对内存的使用/.md)
+	- [体验编译过程中操作系统的栈和堆对内存的使用](/chapters/理解计算机科学的基本原理//把一段程序编译成CPU指令集的过程/体验编译过程中操作系统的栈和堆对内存的使用.md)
 	- [使用浏览器的debugging工具看到javascript运行时的多个scope](/chapters/理解计算机科学的基本原理/把一段程序编译成CPU指令集的过程/使用浏览器的debugging工具看到javascript运行时的多个scope.md)
 	- [把一段c++代码编译成汇编语言](/chapters/理解计算机科学的基本原理/把一段程序编译成CPU指令集的过程/把一段c++代码编译成汇编语言.md)
 	- [Regex+Recursive+Control Flow+OOP+...](/chapters/理解计算机科学的基本原理/把一段程序编译成CPU指令集的过程/Regex+Recursive+Control_Flow+OOP+....md)
