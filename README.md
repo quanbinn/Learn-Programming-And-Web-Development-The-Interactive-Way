@@ -1,4 +1,4 @@
-﻿# 用实体实验法学编程和Web开发(Learn Programming & Web Development The Interactive Way)
+# 用实体实验法学编程和Web开发(Learn Programming & Web Development The Interactive Way)
 
 ## 学习前的准备
 
@@ -19,7 +19,7 @@
 	- [中断和异常的电路实现](/chapters/理解计算机科学的基本原理/组成计算机的多个实体部件/中断和异常的电路实现.md)
 	- [Input+Output设备的电路实现](/chapters/理解计算机科学的基本原理/组成计算机的多个实体部件/Input+Output设备的电路实现.md)
 
-- 操作系统软件实现的多个功能软件实现的多个功能
+- 操作系统软件实现的多个功能
 	- [实现开启多个进程中需要的memory management](/chapters/理解计算机科学的基本原理/操作系统软件实现的多个功能/实现开启多个进程中需要的memory-management.md)
 	- [实现process和thread](/chapters/理解计算机科学的基本原理/操作系统软件实现的多个功能/实现process和thread.md)
 	- [实现file system并对file进行读和写等操作](/chapters/理解计算机科学的基本原理/操作系统软件实现的多个功能/实现file-system并对file进行读和写等操作.md)
@@ -27,12 +27,12 @@
 	- [实现CPU的scheduling](/chapters/理解计算机科学的基本原理/操作系统软件实现的多个功能/实现CPU的scheduling.md)
 	- [实现block device driver](/chapters/理解计算机科学的基本原理/操作系统软件实现的多个功能/实现block-device-driver.md)
 
-- 编译原理
-	- [把一段c++代码编译成汇编语言](/chapters/理解计算机科学的基本原理/编译原理/把一段c++代码编译成汇编语言.md)
-	- [](/chapters/理解计算机科学的基本原理/编译原理/.md)
-	- [](/chapters/理解计算机科学的基本原理/编译原理/.md)
-	- [](/chapters/理解计算机科学的基本原理/编译原理/.md)
-	- [](/chapters/理解计算机科学的基本原理/编译原理/.md)
+- 把一段程序编译成CPU指令集的过程
+	- [解析树](/chapters/理解计算机科学的基本原理/把一段程序编译成CPU指令集的过程/解析树.md)
+	- [体验编译过程中操作系统的栈和堆对内存的使用](/chapters/理解计算机科学的基本原理/体验编译过程中操作系统的栈和堆对内存的使用/.md)
+	- [把一段c++代码编译成汇编语言](/chapters/理解计算机科学的基本原理/把一段程序编译成CPU指令集的过程/把一段c++代码编译成汇编语言.md)
+	- [](/chapters/理解计算机科学的基本原理/把一段程序编译成CPU指令集的过程/.md)
+	- [](/chapters/理解计算机科学的基本原理/把一段程序编译成CPU指令集的过程/.md)
 
 ## 理解内存管理和并发
 
