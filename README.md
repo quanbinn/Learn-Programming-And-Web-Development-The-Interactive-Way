@@ -1,4 +1,4 @@
-# 用实体实验法学编程和Web开发(Learn Programming & Web Development The Interactive Way)
+﻿# 用实体实验法学编程和Web开发(Learn Programming & Web Development The Interactive Way)
 
 ## 学习前的准备
 
@@ -11,21 +11,21 @@
 
 ## 理解计算机科学的基本原理
 
-- 计算机组成原理
-	- [Bit和Byte](/chapters/理解计算机科学的基本原理/计算机组成原理/Bit和Byte.md)
-	- [指令系统体系结构](/chapters/理解计算机科学的基本原理/计算机组成原理/指令系统体系结构.md)
-	- [加法器+逻辑运算+乘法器+除法器的电路实现](/chapters/理解计算机科学的基本原理/计算机组成原理/加法器+逻辑运算+乘法器+除法器的电路实现.md)
-	- [单周期和流水线处理器+存储器的电路实现](/chapters/理解计算机科学的基本原理/计算机组成原理/单周期和流水线处理器+存储器的电路实现.md)
-	- [中断和异常的电路实现](/chapters/理解计算机科学的基本原理/计算机组成原理/中断和异常的电路实现.md)
-	- [Input+Output设备的电路实现](/chapters/理解计算机科学的基本原理/计算机组成原理/Input+Output设备的电路实现.md)
+- 组成计算机的多个实体部件
+	- [Bit和Byte](/chapters/理解计算机科学的基本原理/组成计算机的多个实体部件/Bit和Byte.md)
+	- [指令系统体系结构](/chapters/理解计算机科学的基本原理/组成计算机的多个实体部件/指令系统体系结构.md)
+	- [加法器+逻辑运算+乘法器+除法器的电路实现](/chapters/理解计算机科学的基本原理/组成计算机的多个实体部件/加法器+逻辑运算+乘法器+除法器的电路实现.md)
+	- [单周期和流水线处理器+存储器的电路实现](/chapters/理解计算机科学的基本原理/组成计算机的多个实体部件/单周期和流水线处理器+存储器的电路实现.md)
+	- [中断和异常的电路实现](/chapters/理解计算机科学的基本原理/组成计算机的多个实体部件/中断和异常的电路实现.md)
+	- [Input+Output设备的电路实现](/chapters/理解计算机科学的基本原理/组成计算机的多个实体部件/Input+Output设备的电路实现.md)
 
-- 操作系统
-	- [实现开启多个进程中需要的memory management](/chapters/理解计算机科学的基本原理/操作系统/实现开启多个进程中需要的memory-management.md)
-	- [实现process和thread](/chapters/理解计算机科学的基本原理/操作系统/实现process和thread.md)
-	- [实现file system并对file进行读和写等操作](/chapters/理解计算机科学的基本原理/操作系统/实现file-system并对file进行读和写等操作.md)
-	- [实现socket网络通信中的send和receive数字信号](/chapters/理解计算机科学的基本原理/操作系统/实现socket网络通信中的send和receive数字信号.md)
-	- [实现CPU的scheduling](/chapters/理解计算机科学的基本原理/操作系统/实现CPU的scheduling.md)
-	- [实现block device driver](/chapters/理解计算机科学的基本原理/操作系统/实现block-device-driver.md)
+- 操作系统软件实现的多个功能软件实现的多个功能
+	- [实现开启多个进程中需要的memory management](/chapters/理解计算机科学的基本原理/操作系统软件实现的多个功能/实现开启多个进程中需要的memory-management.md)
+	- [实现process和thread](/chapters/理解计算机科学的基本原理/操作系统软件实现的多个功能/实现process和thread.md)
+	- [实现file system并对file进行读和写等操作](/chapters/理解计算机科学的基本原理/操作系统软件实现的多个功能/实现file-system并对file进行读和写等操作.md)
+	- [实现socket网络通信中的send和receive数字信号](/chapters/理解计算机科学的基本原理/操作系统软件实现的多个功能/实现socket网络通信中的send和receive数字信号.md)
+	- [实现CPU的scheduling](/chapters/理解计算机科学的基本原理/操作系统软件实现的多个功能/实现CPU的scheduling.md)
+	- [实现block device driver](/chapters/理解计算机科学的基本原理/操作系统软件实现的多个功能/实现block-device-driver.md)
 
 - 编译原理
 	- [把一段c++代码编译成汇编语言](/chapters/理解计算机科学的基本原理/编译原理/把一段c++代码编译成汇编语言.md)
