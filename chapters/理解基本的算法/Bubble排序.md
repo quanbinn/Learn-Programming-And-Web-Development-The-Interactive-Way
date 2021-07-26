@@ -69,27 +69,58 @@ bubbleSort(arr);
 ### 运行过程2如下图所示。
 
 ![](/images/理解基本的算法/Bubble排序/2a1.jpg)
+![](/images/理解基本的算法/Bubble排序/2a2.jpg)
+![](/images/理解基本的算法/Bubble排序/2a3.jpg)
+![](/images/理解基本的算法/Bubble排序/2a4.jpg)
+![](/images/理解基本的算法/Bubble排序/2a5.jpg)
+![](/images/理解基本的算法/Bubble排序/2a6.jpg)
+![](/images/理解基本的算法/Bubble排序/2a7.jpg)
+![](/images/理解基本的算法/Bubble排序/2a8.jpg)
+![](/images/理解基本的算法/Bubble排序/2a9.jpg)
+![](/images/理解基本的算法/Bubble排序/2a10.jpg)
+![](/images/理解基本的算法/Bubble排序/2a11.jpg)
+![](/images/理解基本的算法/Bubble排序/2a12.jpg)
+![](/images/理解基本的算法/Bubble排序/2a13.jpg)
+![](/images/理解基本的算法/Bubble排序/2a14.jpg)
 
 ### 运行过程3，分别如下图所示。
 
 ![](/images/理解基本的算法/Bubble排序/3a1.jpg)
+![](/images/理解基本的算法/Bubble排序/3a2.jpg)
+![](/images/理解基本的算法/Bubble排序/3a3.jpg)
+![](/images/理解基本的算法/Bubble排序/3a4.jpg)
+![](/images/理解基本的算法/Bubble排序/3a5.jpg)
+![](/images/理解基本的算法/Bubble排序/3a6.jpg)
+![](/images/理解基本的算法/Bubble排序/3a7.jpg)
+![](/images/理解基本的算法/Bubble排序/3a8.jpg)
+![](/images/理解基本的算法/Bubble排序/3a9.jpg)
+![](/images/理解基本的算法/Bubble排序/3a10.jpg)
+![](/images/理解基本的算法/Bubble排序/3a11.jpg)
 
 
 ### 运行过程4如下图所示。
 
 ![](/images/理解基本的算法/Bubble排序/4a1.jpg)
+![](/images/理解基本的算法/Bubble排序/4a2.jpg)
+![](/images/理解基本的算法/Bubble排序/4a3.jpg)
 
 ### 运行过程5如下图所示。
 
 ![](/images/理解基本的算法/Bubble排序/5a1.jpg)
+![](/images/理解基本的算法/Bubble排序/5a2.jpg)
+![](/images/理解基本的算法/Bubble排序/5a3.jpg)
 
 ### 运行过程6如下图所示。
 
 ![](/images/理解基本的算法/Bubble排序/6a1.jpg)
+![](/images/理解基本的算法/Bubble排序/6a2.jpg)
+![](/images/理解基本的算法/Bubble排序/6a3.jpg)
 
 ### 运行过程7如下图所示。
 
 ![](/images/理解基本的算法/Bubble排序/7a1.jpg)
+![](/images/理解基本的算法/Bubble排序/7a2.jpg)
+![](/images/理解基本的算法/Bubble排序/7a3.jpg)
 
 ### 运行过程8如下图所示。
 
