@@ -16,8 +16,8 @@
 ## 参考文献及资料
 
 1. 维基百科
-  - [Time complexity](https://en.wikipedia.org/wiki/Time_complexity) | [时间复杂度](https://zh.wikipedia.org/wiki/时间复杂度) 
-  - [Big O notation](https://en.wikipedia.org/wiki/Big_O_notation) | [大O符号](https://zh.wikipedia.org/wiki/大O符号) 
-- [Computational complexity theory](https://en.wikipedia.org/wiki/Computational_complexity_theory) | [计算复杂性理论](https://zh.wikipedia.org/wiki/计算复杂性理论) 
+      - [Time complexity](https://en.wikipedia.org/wiki/Time_complexity) | [时间复杂度](https://zh.wikipedia.org/wiki/时间复杂度) 
+      - [Big O notation](https://en.wikipedia.org/wiki/Big_O_notation) | [大O符号](https://zh.wikipedia.org/wiki/大O符号) 
+	- [Computational complexity theory](https://en.wikipedia.org/wiki/Computational_complexity_theory) | [计算复杂性理论](https://zh.wikipedia.org/wiki/计算复杂性理论) 
 
 2. [Big-O Notation](https://runestone.academy/ns/books/published/pythonds/AlgorithmAnalysis/BigONotation.html)
