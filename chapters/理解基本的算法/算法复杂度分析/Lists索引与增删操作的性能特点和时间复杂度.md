@@ -16,6 +16,6 @@
 ## 参考文献及资料
 
 1. 维基百科
-	- [Shellsort](https://en.wikipedia.org/wiki/Shellsort) 
+  - [List (abstract data type)](https://en.wikipedia.org/wiki/List_(abstract_data_type)) | [列表 (抽象数据类型)](https://zh.wikipedia.org/wiki/串列_(抽象資料型別)) 
 
-2. [The Shell Sort](https://runestone.academy/runestone/books/published/pythonds/SortSearch/TheShellSort.html) 
+2. [Lists](https://runestone.academy/ns/books/published/pythonds/AlgorithmAnalysis/Lists.html) 

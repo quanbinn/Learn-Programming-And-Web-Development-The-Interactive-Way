@@ -16,6 +16,6 @@
 ## 参考文献及资料
 
 1. 维基百科
-	- [Shellsort](https://en.wikipedia.org/wiki/Shellsort) 
+  - [Associative array](https://en.wikipedia.org/wiki/Associative_array) | [关联数组](https://zh.wikipedia.org/wiki/关联数组) 
 
-2. [The Shell Sort](https://runestone.academy/runestone/books/published/pythonds/SortSearch/TheShellSort.html) 
+2. [Dictionaries](https://runestone.academy/ns/books/published/pythonds/AlgorithmAnalysis/Dictionaries.html) 
