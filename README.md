@@ -1,4 +1,5 @@
-# 用实体实验法学编程和Web开发(Learn Programming & Web Development The Interactive Way)
+# 用实体实验法学编程和Web开发
+## Learn Programming & Web Development The Interactive Way
 
 ## 学习前的准备
 
@@ -79,7 +80,7 @@
 ## 理解基本的算法
 
 - 算法复杂度分析
-	- [用计时分析算法效率](/chapters/理解基本的算法/算法复杂度分析/用计时分析算法效率.md)  | [从Big-O的复杂度阶理解渐近表示法与常见复杂度类型](/chapters/理解基本的算法/算法复杂度分析/从Big-O的复杂度阶理解渐近表示法与常见复杂度类型.md)  | [变位词检测中四种算法的时间复杂度比较](/chapters/理解基本的算法/算法复杂度分析/变位词检测中四种算法的时间复杂度比较.md)  | [Lists索引与增删操作的性能特点和时间复杂度](/chapters/理解基本的算法/算法复杂度分析/Lists索引与增删操作的性能特点和时间复杂度.md)  | [Dictionaries键值访问与成员查找的哈希机制和效率优势](/chapters/理解基本的算法/算法复杂度分析/Dictionaries键值访问与成员查找的哈希机制和效率优势.md) 
+	- [用计时分析算法效率](/chapters/理解基本的算法/算法复杂度分析/用计时分析算法效率.md)  | [用计数的Big-O的复杂度阶理解渐近表示法与常见复杂度类型](/chapters/理解基本的算法/算法复杂度分析/用计数的Big-O的复杂度阶理解渐近表示法与常见复杂度类型.md)  | [变位词检测中四种算法的时间复杂度比较](/chapters/理解基本的算法/算法复杂度分析/变位词检测中四种算法的时间复杂度比较.md)  | [Lists索引与增删操作的性能特点和时间复杂度](/chapters/理解基本的算法/算法复杂度分析/Lists索引与增删操作的性能特点和时间复杂度.md)  | [Dictionaries键值访问与成员查找的哈希机制和效率优势](/chapters/理解基本的算法/算法复杂度分析/Dictionaries键值访问与成员查找的哈希机制和效率优势.md) 
 - [二分查找](/chapters/理解基本的算法/二分查找.md)
 - 排序
 	- [Bubble排序](/chapters/理解基本的算法/Bubble排序.md) | [Insertion排序](/chapters/理解基本的算法/Insertion排序.md) | [Shell排序](/chapters/理解基本的算法/Shell排序.md) | [merge排序](/chapters/理解基本的算法/merge排序.md)
