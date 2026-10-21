@@ -1,0 +1,21 @@
+# Lists 索引与增删操作的性能特点和时间复杂度
+
+## 打开实验文件
+
+### 单击右方的[在线代码段Url网址](http://www.pythontutor.com/visualize.html#code=def%20shellSort%28citylist%29%3A%0A%20%20%20%20sublistcount%20%3D%20len%28citylist%29//2%0A%20%20%20%20while%20sublistcount%20%3E%200%3A%0A%0A%20%20%20%20%20%20for%20startposition%20in%20range%28sublistcount%29%3A%0A%20%20%20%20%20%20%20%20gapInsertionSort%28citylist,startposition,sublistcount%29%0A%0A%20%20%20%20%20%20print%28%22%E5%9C%A8%E9%80%92%E5%A2%9E%E6%95%B0%E5%80%BC%E4%B8%BA%22,sublistcount,%22%EF%BC%8C%E8%BF%90%E7%AE%97%E5%90%8E%E7%9A%84%E6%95%B0%E6%8D%AE%E5%88%97%E8%A1%A8%E9%A1%BA%E5%BA%8F%E5%8F%98%E6%88%90%E4%BA%86%EF%BC%9A%22,citylist%29%0A%0A%20%20%20%20%20%20sublistcount%20%3D%20sublistcount%20//%202%0A%0Adef%20gapInsertionSort%28citylist,start,gap%29%3A%0A%20%20%20%20for%20i%20in%20range%28start%2Bgap,len%28citylist%29,gap%29%3A%0A%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20currentdata%20%3D%20citylist%5Bi%5D%20%20%20%0A%20%20%20%20%20%20%20%20currentvalue%20%3D%20citylist%5Bi%5D%5B'distance'%5D%0A%20%20%20%20%20%20%20%20position%20%3D%20i%0A%0A%20%20%20%20%20%20%20%20while%20position%3E%3Dgap%20and%20citylist%5Bposition-gap%5D%5B'distance'%5D%3Ecurrentvalue%3A%0A%20%20%20%20%20%20%20%20%20%20%20%20citylist%5Bposition%5D%3Dcitylist%5Bposition-gap%5D%0A%20%20%20%20%20%20%20%20%20%20%20%20position%20%3D%20position-gap%0A%0A%20%20%20%20%20%20%20%20citylist%5Bposition%5D%3Dcurrentdata%0A%0Acitylist%20%3D%20%5B%0A%7B'id'%3A3,'toplace'%3A'city4','distance'%3A17%7D,%0A%7B'id'%3A8,'toplace'%3A'city9','distance'%3A20%7D,%0A%7B'id'%3A1,'toplace'%3A'city2','distance'%3A26%7D,%0A%7B'id'%3A5,'toplace'%3A'city6','distance'%3A31%7D,%0A%7B'id'%3A6,'toplace'%3A'city7','distance'%3A44%7D,%0A%7B'id'%3A0,'toplace'%3A'city1','distance'%3A54%7D,%0A%7B'id'%3A7,'toplace'%3A'city8','distance'%3A55%7D,%0A%7B'id'%3A4,'toplace'%3A'city5','distance'%3A77%7D,%0A%7B'id'%3A2,'toplace'%3A'city3','distance'%3A93%7D%0A%5D%0AshellSort%28citylist%29%0Aprint%28citylist%29&cumulative=false&heapPrimitives=nevernest&mode=edit&origin=opt-frontend.js&py=py3anaconda&rawInputLstJSON=%5B%5D&textReferences=false)，浏览器里会打开一个新的页面，里面有下面的代码段。
+
+```python
+
+```
+
+
+## 开始做实体实验
+
+![](/images/理解基本的算法/Lists 索引与增删操作的性能特点和时间复杂度/1a1.jpg)
+
+## 参考文献及资料
+
+1. 维基百科
+	- [Shellsort](https://en.wikipedia.org/wiki/Shellsort) 
+
+2. [The Shell Sort](https://runestone.academy/runestone/books/published/pythonds/SortSearch/TheShellSort.html) 
